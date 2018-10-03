@@ -4,7 +4,7 @@ Implementing some design patterns in Flutter framework using Dart.
 We are assuming that you already have a great backgound in Flutter devlopment and due to that it's up to improve your coding skills.  
 
 ## Creational Patterns
-- [ ] Singleton
+- [x] Singleton
 - [ ] Factory Methods
 
 ## Behavioral Patterns
