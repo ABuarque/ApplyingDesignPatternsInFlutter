@@ -12,6 +12,8 @@ We are assuming that you already have a great backgound in Flutter development a
 ## Structural Patterns
 
 ## Getting deeper in Flutter
+- [ ] MVC
+- [ ] MVP
 - [ ] BLoC
 ## Authors
 + Aurelio Buarque ([https://github.com/ABuarque](GitHub) - abuarquemf@gmail.com)
