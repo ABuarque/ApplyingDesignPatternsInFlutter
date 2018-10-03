@@ -1,7 +1,7 @@
 # Applying Design Patterns In Flutter
 Implementing some design patterns in Flutter framework using Dart.
 
-We are assuming that you already have a great backgound in Flutter devlopment and due to that it's up to improve your coding skills.  
+We are assuming that you already have a great backgound in Flutter development and due to that it's up to improve your coding skills.  
 
 ## Creational Patterns
 - [x] Singleton
